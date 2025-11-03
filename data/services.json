@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "slug": "marriage-coaching",
+    "title": "Marriage & Pre-Marital Coaching",
+    "category": "Marriage",
+    "excerpt": "Strengthen your marriage or prepare for it with faith-inspired guidance and practical communication strategies.",
+    "description": "# Marriage & Pre-Marital Coaching\n\nWhether you're already married or preparing for marriage, this coaching program combines faith-inspired wisdom with practical communication tools to help couples build strong, emotionally healthy relationships.\n\n## What's Included\n\n- One-on-one or couples sessions\n- Communication framework development\n- Conflict resolution strategies\n- Faith and values alignment\n- Pre-marital preparation modules\n- Post-session resources and worksheets\n\n## Who This Is For\n\n- Couples seeking to strengthen their relationship\n- Pre-marital couples planning for marriage\n- Couples over 50 navigating life transitions\n- Couples experiencing communication challenges",
+    "whatsIncluded": [
+      "Initial assessment session",
+      "4-6 coaching sessions (60 minutes each)",
+      "Communication workbooks",
+      "Weekly reflection exercises",
+      "Access to resource library"
+    ],
+    "price": "Available upon request",
+    "images": ["/placeholder.svg?height=400&width=600"],
+    "featured": true
+  },
+  {
+    "id": "2",
+    "slug": "parenting-coaching",
+    "title": "Parenting Coaching",
+    "category": "Parenting",
+    "excerpt": "Build confidence and emotional strength in your children with practical parenting strategies and faith-based guidance.",
+    "description": "# Parenting Coaching\n\nParenting is one of life's most rewarding yet challenging journeys. Our coaching helps parents develop emotionally strong children through practical strategies, faith-inspired wisdom, and compassionate guidance.\n\n## What's Included\n\n- Individual parent coaching sessions\n- Customized parenting strategies\n- Addressing specific challenges\n- Building emotional resilience in children\n- Faith-based parenting framework\n- Resource materials for different age groups\n\n## Who This Is For\n\n- New parents seeking guidance\n- Single parents navigating solo parenting\n- Blended families adjusting to changes\n- Parents wanting to raise emotionally strong children\n- Parents dealing with specific behavioral challenges",
+    "whatsIncluded": [
+      "Personalized assessment",
+      "6 coaching sessions (60 minutes each)",
+      "Age-specific parenting guides",
+      "Behavior management toolkit",
+      "Monthly follow-up sessions for 3 months"
+    ],
+    "price": "Available upon request",
+    "images": ["/placeholder.svg?height=400&width=600"],
+    "featured": true
+  },
+  {
+    "id": "3",
+    "slug": "confidence-identity-coaching",
+    "title": "Confidence & Identity Coaching",
+    "category": "Personal Development",
+    "excerpt": "Discover your true worth and build unshakeable confidence through faith-centered personal development.",
+    "description": "# Confidence & Identity Coaching\n\nMany people struggle with self-doubt and questions about their identity. This program helps you uncover your authentic self, build confidence, and align your life with your core values.\n\n## What's Included\n\n- Deep identity exploration sessions\n- Confidence-building exercises\n- Limiting belief work\n- Values clarification process\n- Personal vision development\n- Accountability support\n\n## Who This Is For\n\n- Individuals struggling with self-confidence\n- People questioning their identity or purpose\n- Those recovering from past criticism or trauma\n- Professionals seeking career clarity\n- Young adults transitioning to adulthood",
+    "whatsIncluded": [
+      "Comprehensive identity assessment",
+      "8 one-on-one coaching sessions",
+      "Values and strengths workbook",
+      "Daily confidence practices",
+      "Monthly check-ins for 6 months"
+    ],
+    "price": "Available upon request",
+    "images": ["/placeholder.svg?height=400&width=600"],
+    "featured": false
+  },
+  {
+    "id": "4",
+    "slug": "trauma-recovery-coaching",
+    "title": "Healing from Past Trauma & Toxic Relationships",
+    "category": "Personal Development",
+    "excerpt": "Safe, compassionate support to heal from trauma and rebuild your life with strength and purpose.",
+    "description": "# Healing from Past Trauma & Toxic Relationships\n\nHealing from trauma is a journey, and you don't have to walk it alone. This program provides a safe, faith-centered space to process pain, release unhealthy patterns, and rebuild your life.\n\n## What's Included\n\n- Safe, trauma-informed coaching\n- Processing past experiences\n- Releasing unhealthy patterns\n- Building healthy boundaries\n- Rebuilding self-trust\n- Integration and moving forward\n\n## Who This Is For\n\n- Survivors of abuse or trauma\n- People recovering from toxic relationships\n- Those with complex family dynamics\n- Individuals with deep-seated hurt\n- People seeking emotional freedom",
+    "whatsIncluded": [
+      "Initial trauma assessment",
+      "12 intensive coaching sessions",
+      "Trauma processing resources",
+      "Healing exercises and practices",
+      "Ongoing support group access"
+    ],
+    "price": "Available upon request",
+    "images": ["/placeholder.svg?height=400&width=600"],
+    "featured": false
+  },
+  {
+    "id": "5",
+    "slug": "workshops",
+    "title": "Workshops & Group Programs",
+    "category": "Workshops",
+    "excerpt": "Transform families and communities with our comprehensive workshop series on relationships, boundaries, and resilience.",
+    "description": "# Workshops & Group Programs\n\nOur workshops bring transformative learning to families and communities. Perfect for churches, schools, organizations, and community groups seeking practical, faith-inspired training.\n\n## Available Workshops\n\n- Raising Emotionally Strong Children\n- Building Spiritually and Emotionally Healthy Homes\n- Boundary Setting & Assertiveness Training\n- Restoring Joy, Vision, and Confidence After Setbacks\n- Christian Grief Support\n- Faith and Family Integration\n\n## What's Included\n\n- Engaging, interactive sessions\n- Takeaway resources and workbooks\n- Q&A and group discussion\n- Follow-up materials\n- Customizable to your group's needs",
+    "whatsIncluded": [
+      "90-180 minute interactive session",
+      "Customized content for your audience",
+      "Printed resource materials",
+      "Digital follow-up resources",
+      "Post-workshop support"
+    ],
+    "price": "Available upon request - Special rates for schools and charities",
+    "images": ["/placeholder.svg?height=400&width=600"],
+    "featured": true
+  }
+]

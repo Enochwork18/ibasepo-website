@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "title": "Workshop Session",
+    "description": "Interactive workshop with community members",
+    "image": "/placeholder.svg?height=400&width=400",
+    "category": "Workshops",
+    "featured": true
+  },
+  {
+    "id": "2",
+    "title": "Speaking Engagement",
+    "description": "Keynote presentation at community event",
+    "image": "/placeholder.svg?height=400&width=400",
+    "category": "Speaking",
+    "featured": true
+  },
+  {
+    "id": "3",
+    "title": "Coaching Session",
+    "description": "One-on-one coaching in action",
+    "image": "/placeholder.svg?height=400&width=400",
+    "category": "Coaching",
+    "featured": false
+  },
+  {
+    "id": "4",
+    "title": "Community Gathering",
+    "description": "Community members at a support circle",
+    "image": "/placeholder.svg?height=400&width=400",
+    "category": "Community",
+    "featured": true
+  }
+]

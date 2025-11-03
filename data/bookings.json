@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "clientName": "John Doe",
+    "clientEmail": "john@example.com",
+    "serviceId": "1",
+    "serviceName": "Marriage Coaching",
+    "bookingDate": "2024-11-15",
+    "bookingTime": "10:00",
+    "status": "confirmed",
+    "notes": "First session - initial consultation",
+    "createdAt": "2024-11-03"
+  }
+]

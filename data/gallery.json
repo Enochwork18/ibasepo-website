@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "title": "Community Gathering",
+    "description": "Family reunion and community connection",
+    "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/family%20reunion%20games%20%E2%80%93%2071toes-8bs7fWOKj3uqK8KUl0g9k0fCtJtw57.jpg",
+    "category": "Community",
+    "featured": true
+  },
+  {
+    "id": "2",
+    "title": "Team Building Activities",
+    "description": "Interactive team building with group engagement",
+    "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%F0%9F%8C%BF%20Unleash%20Your%20Team%E2%80%99s%20Potential%21%20Looking%20for%20fun%E2%80%A6-P3QIUqBfnk4mWA7L2x3o4EIdonbyJG.jpg",
+    "category": "Workshops",
+    "featured": true
+  },
+  {
+    "id": "3",
+    "title": "Unity and Support",
+    "description": "Team members coming together for support",
+    "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/664c7934-147b-4b8e-88e8-d03cabb2e59d-fwQyCNwPSTKy1GzA2lMn6MZzyvsfD2.jpg",
+    "category": "Community",
+    "featured": true
+  },
+  {
+    "id": "4",
+    "title": "Adventure Team Building",
+    "description": "Challenging group activities in nature",
+    "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Discover%20a%20wide%20range%20of%20Team%20Building%20Activities%E2%80%A6-CG1mesas6URiOOxmTLwDYB5j2utG6F.jpg",
+    "category": "Workshops",
+    "featured": true
+  },
+  {
+    "id": "5",
+    "title": "One-on-One Coaching",
+    "description": "Professional coaching session in session",
+    "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/What%20does%20the%20beginning%20or%20first%20few%20sessions%20of%E2%80%A6-iu4SKmMP47zfaQ9llHQpC0QjF7YTm0.jpg",
+    "category": "Coaching",
+    "featured": true
+  },
+  {
+    "id": "6",
+    "title": "Group Support Circle",
+    "description": "Supportive team interaction and connection",
+    "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/c65d7ca1-1fe1-459e-ba3a-f500e9d43e1b-NQpD5EG5gBFvgvlEXCKBopZG7dlWKl.jpg",
+    "category": "Community",
+    "featured": true
+  },
+  {
+    "id": "7",
+    "title": "Family Consultation",
+    "description": "Family consultation and coaching session",
+    "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/What%20does%20the%20beginning%20or%20first%20few%20sessions%20of%E2%80%A6-iu4SKmMP47zfaQ9llHQpC0QjF7YTm0.jpg",
+    "category": "Coaching",
+    "featured": false
+  },
+  {
+    "id": "8",
+    "title": "Knowledge & Growth",
+    "description": "Educational resources and personal development",
+    "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/4642105e-e320-4204-bcef-0c32d975b9de-SK9tN17vvWWcXaOo61xlqedz0U3Z6S.jpg",
+    "category": "Resources",
+    "featured": false
+  },
+  {
+    "id": "9",
+    "title": "Youth Development",
+    "description": "Coaching young people toward strength and resilience",
+    "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E2%80%A6-xsaqDNc3v4ZP5n1326qhpJgflcEint.jpg",
+    "category": "Coaching",
+    "featured": true
+  },
+  {
+    "id": "10",
+    "title": "Community Care",
+    "description": "Supporting children and community growth",
+    "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/b0e4f9f5-46bb-40aa-802a-89cf4edbb0da-KNYkViCxN3LgltqBLHQR2u6mOpwIuT.jpeg",
+    "category": "Community",
+    "featured": false
+  }
+]

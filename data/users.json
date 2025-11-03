@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "name": "Aduké Lara",
+    "email": "eo.bismark@ibasepo.org.uk",
+    "role": "SuperAdmin",
+    "password": "admin123",
+    "lastLogin": "2024-11-03"
+  },
+  {
+    "id": "2",
+    "name": "Editor User",
+    "email": "editor@ibasepo.org.uk",
+    "role": "Editor",
+    "password": "editor123",
+    "lastLogin": "2024-11-02"
+  }
+]

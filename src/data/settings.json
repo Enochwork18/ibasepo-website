@@ -1,0 +1,21 @@
+{
+  "businessName": "Ìbáṣepọ̀ – Connected Hearts",
+  "businessTagline": "Guiding families toward peace, purpose, and legacy",
+  "businessEmail": "enquiries@ibasepo.org.uk",
+  "alternateEmail": "eo.bismark@ibasepo.org.uk",
+  "businessPhone": "+447958709238",
+  "businessAddress": "United Kingdom",
+  "socialLinks": {
+    "instagram": "https://www.instagram.com/adukelara",
+    "facebook": "https://www.facebook.com/profile.php?id=100002866323294"
+  },
+  "calendlyUrl": "https://calendly.com/ibasepo",
+  "newsletterTemplate": {
+    "name": "Rehoboth for Families",
+    "description": "Monthly insights on family wellness, parenting wisdom, and relationship building"
+  },
+  "paymentMethods": {
+    "paystack": "pk_test_placeholder",
+    "flutterwave": "flw_test_placeholder"
+  }
+}

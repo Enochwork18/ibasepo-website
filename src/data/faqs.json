@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "question": "What is the duration of a typical coaching session?",
+    "answer": "Most coaching sessions are 60 minutes long. This allows enough time to explore your situation, provide guidance, and give you actionable steps to take.",
+    "category": "General"
+  },
+  {
+    "id": "2",
+    "question": "How many sessions do I need?",
+    "answer": "The number of sessions depends on your goals and situation. Some people benefit from 4-6 sessions, while others prefer ongoing monthly support. We'll customize a plan during your initial consultation.",
+    "category": "General"
+  },
+  {
+    "id": "3",
+    "question": "Is everything confidential?",
+    "answer": "Yes, all coaching sessions are completely confidential. Your privacy and trust are paramount. The only exceptions are situations involving immediate harm or legal requirements.",
+    "category": "General"
+  },
+  {
+    "id": "4",
+    "question": "What if I'm not sure which service is right for me?",
+    "answer": "I offer a free 20-minute consultation to discuss your needs and help you find the right fit. Contact us to schedule yours.",
+    "category": "Services"
+  }
+]
